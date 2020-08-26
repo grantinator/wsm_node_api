@@ -11,7 +11,7 @@ npm install wsm-api
 You will need: </br>
     * A Wall Street Magnate account </br>
     * API keys for your account, which can be found here under the gear tab in top right of the WSM UI.
-    <img align="right" src="./key_loc.png"> </br> </br> </br>
+    <img align="right" src="./key_loc.png"> </br> </br> </br> </br> </br> </br>
 
 ## Create Client object
 You need to first create a client object that has access to WSM via an access token. The async createClient() function will set this up for you given your API keys. You **must** await this function.
